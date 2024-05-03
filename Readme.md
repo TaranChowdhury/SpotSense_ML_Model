@@ -1,16 +1,14 @@
-# Parking Space Detection
-[Medium Article](https://medium.com/the-research-nest/parking-space-detection-using-deep-learning-9fc99a63875e)
+
 
 ## How to use
 
-
 * IPython Notebook:
 
-``` Download the notebook and upload it on google colab. Rest of the instructions are in the notebook. ```
+``` Download the notebook and upload Jupyter Notebooks. The rest of the instructions are in the notebook. ```
 
-## To run code on local machine
+## To run code on a local machine
 
-* Create a python virtual environment and install the dependencies using the following command:
+* Create a Python virtual environment and install the dependencies using the following command:
 
 ``` pip install -r requirements.txt ```
 
