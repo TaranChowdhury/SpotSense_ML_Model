@@ -15,10 +15,9 @@
 * It is highly recommended to create a Python virtual environment to install all the dependencies. Here is how you can do it:
 
 ## Create a Python virtual environment using the following command:
-*
-    * ```pip install virtualenv```
-    * ```python3 -m venv myenv```
-    * ```myenv\Scripts\activate```
+* ```pip install virtualenv```
+* ```python3 -m venv myenv```
+* ```myenv\Scripts\activate```
 
 * Note: make sure to install Python3.7.9 before creating the virtual environment.
 
