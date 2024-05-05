@@ -10,8 +10,8 @@ from shapely.geometry import box
 from shapely.geometry import Polygon as shapely_poly
 
 # Hard-coded video path and output file
-video_path = r'C:\Users\taran\Desktop\CMPE195\TEST_ML\parking_detection\CMPE195A\Mask_RCNN\data\parking3.mp4'
-savePath = r'C:\Users\taran\Desktop\CMPE195\TEST_ML\parking_detection\CMPE195A\Mask_RCNN\data\regions3q.p'
+video_path = r'.\Mask_RCNN\data\parking1.mp4'
+savePath = r'.\Mask_RCNN\data\regions1.p'
 
 points = []
 prev_points = []
@@ -45,7 +45,7 @@ def break_loop(event):
 
         print("data saved in "+ savePath + " file")    
         with open(savePath, 'wb') as f:
-            pickle.dump(total_points, f, protocol=pickle.HIGHEST_PROTOCOL)
+            pickle.dump(total_points, f, protocol=4)
             exit()
 
 def onkeypress(event):
