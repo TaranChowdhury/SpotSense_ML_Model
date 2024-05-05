@@ -35,4 +35,4 @@
 * Use detector.py to get the output:
 ``` python detector.py PATH_OF_VIDEO_FILE PATH_OF_PARKING_MASK_FILE ```
 
-# The Training and output videos and the parking region masks are in the ```Drive link Training_&_output Video.txt``` file.
+## The Training and output videos and the parking region masks are in the ```Drive link Training_&_output Video.txt``` file.
