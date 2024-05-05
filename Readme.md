@@ -12,9 +12,9 @@
 
 # To run code on a local machine
 
-## It is highly recommended to create a python virtual environment to install all the dependencies. Here is how you can do it:
+* It is highly recommended to create a Python virtual environment to install all the dependencies. Here is how you can do it:
 
-* Create a Python virtual environment and install the dependencies using the following command:
+## Create a Python virtual environment and install the dependencies using the following command:
 
     * ```pip install virtualenv```
     * ```python3 -m venv myenv```
@@ -22,7 +22,7 @@
 
 * Note: make sure to install Python3.7.9 before creating the virtual environment.
 
-* Install the dependencies using the following command:
+## Install the dependencies using the following command:
 
 ``` pip install -r requirements.txt ```
 
