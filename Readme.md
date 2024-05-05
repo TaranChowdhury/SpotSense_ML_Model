@@ -1,4 +1,16 @@
+## Dependencies:
 
+* Python 3.7
+* Tensorflow 1.15.2
+* Keras 2.0.8
+
+## It is highly recommended to create a python virtual environment to install all the dependencies. Here is how you can do it:
+
+* After installing python 3.7.9, install the Virtualenv library and create a virtual encironment.
+
+    * ```pip install virtualenv```
+    * ```python3 -m venv myenv```
+    * ```myenv\Scripts\activate```
 
 ## How to use
 
